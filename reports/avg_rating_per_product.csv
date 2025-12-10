@@ -1,0 +1,106 @@
+product_id,name,category,avg_rating,review_count
+11,LightCyan There,Beauty,5.0,1
+19,DarkGreen Thank,Fashion,5.0,1
+49,Khaki Talk,Books,5.0,1
+55,DarkGreen Range,Books,5.0,1
+100,Fuchsia Music,Home & Kitchen,5.0,1
+108,LightCyan Sign,Home & Kitchen,5.0,1
+110,MistyRose Task,Beauty,5.0,1
+121,Aqua Energy,Beauty,5.0,1
+132,Teal Lose,Groceries,5.0,1
+139,Salmon School,Sports,5.0,1
+87,Peru Plan,Electronics,4.5,2
+122,Pink Surface,Electronics,4.5,2
+6,MediumBlue Standard,Electronics,4.33,3
+80,Green Friend,Fashion,4.0,5
+119,Navy Politics,Beauty,4.0,3
+137,LightGoldenRodYellow Loss,Beauty,4.0,3
+14,Gainsboro Seat,Groceries,4.0,2
+124,HoneyDew Future,Toys,4.0,2
+9,GhostWhite Future,Books,4.0,1
+12,PeachPuff Water,Home & Kitchen,4.0,1
+23,LemonChiffon Across,Home & Kitchen,4.0,1
+39,SeaShell Dark,Toys,4.0,1
+61,NavajoWhite Account,Home & Kitchen,4.0,1
+62,Linen Leg,Fashion,4.0,1
+76,Chartreuse Movie,Sports,4.0,1
+77,Fuchsia Image,Home & Kitchen,4.0,1
+86,Plum Past,Fashion,4.0,1
+136,RoyalBlue Perform,Home & Kitchen,4.0,1
+150,MediumOrchid A,Toys,4.0,1
+8,LightPink Available,Sports,3.67,3
+20,LightCoral Friend,Sports,3.67,3
+41,Silver Room,Electronics,3.67,3
+97,Linen Card,Books,3.67,3
+106,SeaShell Hospital,Sports,3.67,3
+1,MediumSpringGreen Run,Home & Kitchen,3.5,2
+17,Orchid Early,Home & Kitchen,3.5,2
+27,Brown Rather,Electronics,3.5,2
+34,Salmon Member,Sports,3.5,2
+37,Teal Attack,Home & Kitchen,3.5,2
+47,LightPink Between,Sports,3.5,2
+63,MediumVioletRed Science,Home & Kitchen,3.5,2
+79,Cornsilk Agreement,Electronics,3.5,2
+82,Gainsboro So,Electronics,3.5,2
+104,WhiteSmoke Point,Sports,3.5,2
+18,LightGoldenRodYellow Help,Sports,3.33,3
+50,Chocolate Its,Electronics,3.33,3
+73,Magenta Then,Beauty,3.33,3
+149,MintCream Kid,Sports,3.33,3
+3,DarkRed Claim,Home & Kitchen,3.0,5
+2,LavenderBlush Response,Fashion,3.0,3
+26,MediumSlateBlue Stage,Fashion,3.0,3
+33,Fuchsia Scientist,Fashion,3.0,3
+105,LavenderBlush Even,Electronics,3.0,3
+107,Violet I,Books,3.0,3
+142,DarkBlue Throughout,Beauty,3.0,3
+7,MediumSpringGreen Born,Toys,3.0,2
+32,BlanchedAlmond Or,Groceries,3.0,2
+52,LavenderBlush Leader,Sports,3.0,2
+85,Olive Seek,Groceries,3.0,2
+113,DarkSlateBlue Once,Sports,3.0,2
+130,Blue Sound,Fashion,3.0,2
+28,Pink Safe,Beauty,3.0,1
+51,LemonChiffon Crime,Electronics,3.0,1
+57,FloralWhite Fine,Toys,3.0,1
+75,MediumOrchid Better,Groceries,3.0,1
+83,ForestGreen Also,Toys,3.0,1
+134,PaleGoldenRod Reflect,Fashion,3.0,1
+145,IndianRed Success,Toys,3.0,1
+109,Tan Learn,Sports,2.75,4
+96,Lavender Step,Beauty,2.67,3
+31,LightSeaGreen Who,Toys,2.6,5
+78,Crimson Region,Home & Kitchen,2.5,4
+114,MediumSpringGreen Against,Books,2.5,4
+36,DarkGoldenRod Kid,Groceries,2.5,2
+38,GreenYellow Dinner,Toys,2.5,2
+54,DarkGray Vote,Home & Kitchen,2.5,2
+92,Coral Process,Toys,2.5,2
+118,Turquoise Surface,Books,2.5,2
+135,Tomato Leader,Fashion,2.5,2
+22,IndianRed Stand,Fashion,2.33,3
+91,LightCoral Better,Home & Kitchen,2.0,3
+126,SeaShell Interview,Books,2.0,3
+133,LightSalmon Feel,Groceries,2.0,3
+143,Purple Whatever,Home & Kitchen,2.0,3
+99,OldLace Language,Home & Kitchen,2.0,2
+147,RosyBrown Board,Beauty,2.0,2
+10,CornflowerBlue Professional,Sports,2.0,1
+44,Aqua Seat,Groceries,2.0,1
+72,SeaGreen American,Home & Kitchen,2.0,1
+101,Gold Expect,Sports,2.0,1
+146,LightGoldenRodYellow Style,Fashion,2.0,1
+93,Yellow Stay,Fashion,1.75,4
+84,ForestGreen Effort,Groceries,1.67,3
+102,Gold Defense,Home & Kitchen,1.67,3
+71,Coral Watch,Groceries,1.5,2
+103,Lime Represent,Sports,1.5,2
+115,LightGreen Democratic,Books,1.5,2
+129,Turquoise Defense,Toys,1.5,2
+111,ForestGreen Feel,Sports,1.0,2
+144,Cyan Agree,Fashion,1.0,2
+43,Ivory Seat,Home & Kitchen,1.0,1
+59,Black Coach,Beauty,1.0,1
+64,DarkGoldenRod Buy,Fashion,1.0,1
+68,LightSkyBlue Board,Groceries,1.0,1
+88,FireBrick Over,Electronics,1.0,1

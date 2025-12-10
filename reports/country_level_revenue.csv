@@ -1,0 +1,194 @@
+country,revenue,orders_count,users_count
+Falkland Islands (Malvinas),23648.15,12,4
+Antigua and Barbuda,23477.15,11,3
+Iceland,22624.71,11,4
+Montenegro,22397.92,13,7
+Samoa,20775.46,14,5
+Madagascar,20400.59,11,5
+Nepal,19614.47,9,4
+Brazil,18827.29,8,4
+Israel,18285.53,9,4
+Azerbaijan,18152.83,10,5
+Anguilla,18047.53,9,5
+Congo,17916.440000000002,13,5
+Bulgaria,17893.06,11,3
+Sao Tome and Principe,17647.88,7,2
+Korea,17611.44,11,6
+Saint Pierre and Miquelon,17529.260000000002,6,3
+Sierra Leone,17382.07,8,2
+Nigeria,16965.95,7,3
+Czech Republic,16832.35,9,5
+Bouvet Island (Bouvetoya),16753.73,6,3
+Austria,16282.35,7,3
+Bahrain,16259.13,8,2
+Zambia,15648.82,8,2
+Armenia,15533.89,8,6
+Norfolk Island,15515.5,5,2
+Bangladesh,15178.89,9,4
+Marshall Islands,14549.74,9,3
+Togo,13997.58,7,3
+Yemen,13688.609999999999,7,4
+Hong Kong,13668.0,6,3
+Guatemala,13381.82,8,4
+Central African Republic,13169.66,8,2
+Cote d'Ivoire,12853.240000000002,4,2
+Guyana,12822.1,5,2
+Panama,12763.87,6,3
+Singapore,12667.730000000001,5,2
+Oman,12537.26,7,4
+Papua New Guinea,12467.51,7,2
+Mauritius,12360.24,6,3
+Burkina Faso,12300.630000000001,6,2
+Vanuatu,11929.72,5,2
+Cayman Islands,11885.89,5,2
+Turkey,11815.58,5,3
+Tanzania,11810.78,6,2
+Namibia,11783.91,8,4
+Mauritania,11724.83,5,2
+Saint Barthelemy,11717.7,5,3
+Nicaragua,11647.76,5,2
+Cape Verde,11564.95,4,3
+Saint Helena,11493.39,7,3
+Nauru,11104.710000000001,5,2
+Netherlands,11090.82,7,3
+Slovenia,10772.26,5,2
+Argentina,10194.6,3,2
+Thailand,10119.71,5,3
+Japan,10069.81,3,2
+Norway,9830.29,7,3
+Syrian Arab Republic,9827.07,5,2
+Puerto Rico,9721.42,6,3
+Lesotho,9634.029999999999,5,3
+Georgia,9531.960000000001,5,1
+Lao People's Democratic Republic,9469.06,5,2
+Tonga,9461.14,5,2
+Northern Mariana Islands,9231.83,5,4
+Mozambique,9126.51,5,2
+Greenland,9073.42,4,2
+Ghana,9027.9,2,1
+United States of America,9007.34,5,2
+Bhutan,8996.27,6,3
+Kiribati,8834.52,5,3
+Gambia,8767.94,6,1
+Spain,8742.97,3,2
+North Macedonia,8489.210000000001,4,2
+Russian Federation,8388.18,6,3
+Malawi,8370.52,5,2
+Reunion,8236.789999999999,5,2
+Pakistan,8234.17,3,1
+Montserrat,8233.46,5,2
+Indonesia,8206.29,3,1
+Saint Lucia,8192.939999999999,3,1
+Burundi,8026.009999999999,3,1
+Saint Vincent and the Grenadines,7865.92,3,1
+Heard Island and McDonald Islands,7778.51,3,2
+Albania,7712.33,4,1
+Guinea,7702.77,4,2
+Uruguay,7615.5,5,3
+Brunei Darussalam,7541.24,4,3
+Serbia,7509.21,4,2
+South Georgia and the South Sandwich Islands,7477.24,3,2
+Vietnam,7456.110000000001,4,2
+Sweden,7372.05,4,2
+Taiwan,7294.0,3,2
+Romania,7239.03,5,2
+Macao,7193.139999999999,3,1
+Timor-Leste,6996.360000000001,4,2
+Turkmenistan,6853.52,3,2
+Aruba,6766.63,3,3
+Swaziland,6696.5199999999995,3,2
+Solomon Islands,6620.42,3,1
+Tunisia,6549.91,2,1
+Tokelau,6517.56,4,2
+Pitcairn Islands,6234.23,3,1
+Moldova,6213.87,3,2
+Qatar,6109.37,4,1
+Faroe Islands,6078.42,3,1
+Cuba,6077.3,3,3
+Haiti,5910.0,4,3
+Belgium,5788.11,4,3
+New Zealand,5756.360000000001,3,1
+Venezuela,5725.889999999999,3,2
+Jamaica,5667.139999999999,3,2
+Netherlands Antilles,5615.22,3,2
+Saudi Arabia,5545.07,3,1
+Guam,5313.71,4,3
+Afghanistan,5303.610000000001,3,1
+Belize,5269.18,3,2
+Palau,5232.21,4,2
+Libyan Arab Jamahiriya,5224.21,3,2
+Iran,5208.969999999999,2,1
+Lebanon,5187.87,4,2
+Costa Rica,5152.37,2,1
+Benin,5057.05,4,2
+Dominica,5012.86,4,3
+French Southern Territories,5002.13,4,2
+Malta,4732.01,3,2
+Zimbabwe,4648.66,3,2
+Ecuador,4534.46,3,2
+United Kingdom,4532.48,2,2
+Sri Lanka,4505.1,2,2
+Colombia,4494.16,3,1
+Saint Kitts and Nevis,4464.26,4,2
+Kazakhstan,4438.65,3,3
+Isle of Man,4290.860000000001,4,2
+Somalia,4188.15,2,1
+Denmark,4080.28,1,1
+Malaysia,4077.8999999999996,3,1
+Western Sahara,3959.8999999999996,2,1
+Algeria,3790.59,3,2
+Germany,3778.3799999999997,3,3
+Finland,3691.09,2,1
+Estonia,3545.44,1,1
+Monaco,3542.99,1,1
+Greece,3536.91,3,3
+Mayotte,3535.6400000000003,3,2
+Seychelles,3528.4700000000003,2,2
+Sudan,3512.6600000000003,3,1
+China,3482.5299999999997,2,1
+Cambodia,3314.76,1,1
+Myanmar,3249.5699999999997,2,1
+French Guiana,3227.91,1,1
+Kenya,3186.23,1,1
+Liechtenstein,3118.28,1,1
+Mexico,3037.32,2,2
+Fiji,2882.22,1,1
+Maldives,2708.76,2,1
+El Salvador,2689.06,2,2
+Rwanda,2681.37,2,2
+Guernsey,2472.0,1,1
+Micronesia,2442.91,2,1
+Eritrea,2401.7200000000003,4,1
+Mongolia,2397.98,3,2
+Philippines,2343.27,1,1
+Croatia,2324.84,1,1
+Angola,2261.84,2,1
+Senegal,2088.01,1,1
+Canada,1948.2,1,1
+Switzerland,1767.37,2,1
+French Polynesia,1757.63,1,1
+Italy,1714.8899999999999,2,2
+Christmas Island,1642.62,1,1
+Bosnia and Herzegovina,1536.13,1,1
+United Arab Emirates,1510.51,2,1
+Cyprus,1492.78,1,1
+Andorra,1436.35,2,2
+United States Minor Outlying Islands,1435.06,2,2
+United States Virgin Islands,1363.54,1,1
+San Marino,1352.88,2,1
+Morocco,1332.58,1,1
+Palestinian Territory,1293.04,1,1
+British Virgin Islands,1190.8,1,1
+Portugal,1108.8,1,1
+Jersey,1108.31,2,2
+Luxembourg,1064.38,1,1
+Comoros,1038.2,1,1
+Cameroon,1010.22,1,1
+Ethiopia,953.8,1,1
+Peru,739.2,1,1
+Honduras,709.19,1,1
+Paraguay,687.76,1,1
+Antarctica (the territory South of 60 deg S),535.56,1,1
+Chad,384.92,1,1
+Holy See (Vatican City State),230.7,1,1
+Lithuania,204.27,1,1
