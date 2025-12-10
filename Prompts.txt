@@ -1,0 +1,21 @@
+﻿Prompts Used for Assignment:
+
+
+1.prompt to generate ecom data:
+“Generate Python code that creates synthetic e-commerce CSV data: users, products, orders, order_items, and reviews. Save them in a folder named "data". Use faker.”
+
+
+2.prompt to ingest the code into a database:
+“Write Python code that creates a sqlite database named ecom.db and loads all CSV files from ./data/ into tables: users, products, orders, order_items, reviews.”
+
+
+3.Prompt to generate a query to join tables:
+“Generate SQL queries that join users, orders, order_items, reviews, and products. Include:
+1. 1.top 10 users by spending
+2. 2.top 10 products by revenue
+3. 3.average rating per product
+4. 4.country-level revenue”
+
+
+4.Prompt to generate report of output:
+“ give python code to generate a file for the above join output.”
