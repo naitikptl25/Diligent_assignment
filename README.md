@@ -8,7 +8,7 @@ It includes:
 - SQL queries to join data and produce a final combined report
 - Exporting the final SQL result into a CSV file
 
-Data contains csv files of generated data
+Data contains csv files of generated data and
 reports conatins outputs of query.sql in which i have joined the tables.
 
 ---
